@@ -31,4 +31,4 @@ make
 ./minishell
 ```
 Test our minishell with any commands, builtins and redirections you like.
-"\",   ";",   "&&"   and   "||" were not implemented.
+"\\",   ";",   "&&"   and   "||" were not implemented.
