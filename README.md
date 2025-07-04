@@ -25,7 +25,7 @@ git clone https://github.com/tsimitop/minishell.git
 cd minishell
 make
 ```
-## 🛠️ How to Run
+## 🏃🏽‍♀️ How to Run
 
 ```bash
 ./minishell
