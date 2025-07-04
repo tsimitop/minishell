@@ -1,4 +1,4 @@
-** Minishell **
+# Minishell
 
 Minishell is a simplified Unix shell implemented in C. It supports basic shell features including command parsing, built-in commands, environment variable handling, input/output redirections, and pipelines. This is the first 42 team project. We worked together with [Yun](https://github.com/unow0517) while navigating git as a team for the first time.
 
