@@ -21,7 +21,7 @@ The goal of Minishell is to recreate a minimal shell environment while gaining a
 ## 🛠️ How to Build
 
 ```bash
-git clone https://github.com/yourusername/minishell.git
+git clone https://github.com/tsimitop/minishell.git
 cd minishell
 make
 ```
